@@ -145,3 +145,7 @@ Old price vs renovated price gap shows where value is added most.
 
 ✅ Conclusion
 This dashboard helps investors choose which Dubai areas to renovate first. Focus on areas with high ROI and low renovation cost for best profit.
+
+
+![proj_4](https://github.com/user-attachments/assets/4b5a88b2-3306-4bc7-ba81-035d5e4197cb)
+
